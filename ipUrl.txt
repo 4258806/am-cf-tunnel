@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/4258806/am-cf-tunnel/main/ipJP.txt@119.29.123.110
+https://raw.githubusercontent.com/4258806/am-cf-tunnel/main/ipJP.txt
 https://raw.githubusercontent.com/4258806/am-cf-tunnel/main/ipHK.txt@119.29.123.110
 https://raw.githubusercontent.com/4258806/am-cf-tunnel/main/ipv4.csv
 https://raw.githubusercontent.com/4258806/am-cf-tunnel/main/ipUS.txt@proxyip.amclubs.camdvr.org
