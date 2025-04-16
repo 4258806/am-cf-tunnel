@@ -1,8 +1,10 @@
 127.0.0.1:1234#cfnat
-172.64.229.75:443#test
-104.17.132.225:443#test
-104.19.133.78:443#test
-104.20.47.110:443#test
+104.19.26.101:443#test
+104.19.77.27:443#test
+104.19.55.102:443#test
+104.16.48.110:443#test
+104.19.126.101:443#test
+
 ashton.ns.cloudflare.com
 abdullah.ns.cloudflare.com
 bowen.ns.cloudflare.com
