@@ -13,6 +13,15 @@ braden.ns.cloudflare.com
 [2606:4700:3036:6ed4:ffdf:f2ba:820b:ed5c]#IPV6
 [2606:4700:9b08:7ce1:8882:ba8c:2880:c619]#IPV6
 [2606:4700:9b08:dd59:154f:abf8:46b5:25bb]#IPV6
+[2803:f800:51:a5:81ab:eb32:ad85:d708]#test
+[2606:4700:f:0:96:6568:bbdb:5aa4]#test
+[2803:f800:50::a68:c056]#test
+[2803:f800:51:625c:bba2:c956:1a79:cb98]#test
+[2803:f800:50:e890:1f91:b69c:d5f3:8c21]#test
+[2a06:98c1:3101:0:23df:9ab2:1d4e:fa7]#test
+[2606:4700:f:0:21e0:d410:1706:dc41]#test
+[2a06:98c1:3100:88:77fb:b825:9c1d:3803]#test
+
 cris.ns.cloudflare.com
 craig.ns.cloudflare.com
 decker.ns.cloudflare.com
